@@ -1,0 +1,20 @@
+{
+  "engine_version": "0.1.0",
+  "content_version": "0.2.0",
+  "weights_version": "lapse-radar-v1",
+  "pyodide_version": "0.27.8",
+  "wheels": [
+    "content-0.1.0-py3-none-any.whl",
+    "engine-0.1.0-py3-none-any.whl"
+  ],
+  "pyodide_packages": [
+    "annotated-types",
+    "micropip",
+    "packaging",
+    "pydantic",
+    "pydantic-core",
+    "pyyaml",
+    "typing-extensions"
+  ],
+  "worker": "worker.js"
+}
